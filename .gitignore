@@ -1,0 +1,15 @@
+## Git ignore
+*.aux
+*.bbl
+*.blg
+*.docx
+*.lof
+*.log
+*.lot
+*.out
+*.gz
+*.synctex.gz
+*.toc
+*.zip
+.Rhistory
+*.gz
